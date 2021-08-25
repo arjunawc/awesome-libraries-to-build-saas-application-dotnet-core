@@ -1,5 +1,7 @@
 # Awesome curated collection of libraries to build Software as a Service (SaaS) Web application using ASP.NET Core
 
+Reference: https://www.syncfusion.com/blogs/post/get-a-head-start-developing-multitenant-saas-cloud-applications-using-asp-net-core-and-microsoft-azure.aspx
+
 #### Architecture references 
 
 * [**Microsoft Cloud Design Patterns**](https://docs.microsoft.com/en-us/azure/architecture/patterns/)  
